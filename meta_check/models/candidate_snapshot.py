@@ -25,7 +25,7 @@ class BaseCandidate(BaseModel):
     url: str
 
 
-class SnapshotInfo(BaseModel):
+class CandidateSnapshotInfo(BaseModel):
     """
     snapshot list
     """

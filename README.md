@@ -14,5 +14,5 @@ pip install -r reqirements.txt
 git clone https://git.tizen.org/cgit/scm/meta/qb
 
 # test
-python main.py ./qb
+python meta_check/main.py ./qb
 ```

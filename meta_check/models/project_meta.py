@@ -132,7 +132,7 @@ class Maintainers(BaseModel):
     project_leader: Optional[List[str]]
 
 
-class Project(BaseModel):
+class ProjectMeta(BaseModel):
     """
     project
     """
